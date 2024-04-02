@@ -7,3 +7,4 @@ resources:
   - ../../../../helm/grafana/helm-repository.yaml
   - ../../../../helm/prometheus-community/helm-repository.yaml
   - grafana
+  - prometheus
